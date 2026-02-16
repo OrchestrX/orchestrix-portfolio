@@ -15,7 +15,7 @@ export default function Why() {
             </span>
           </h2>
           <p className="mt-8 text-lg text-slate-400 max-w-2xl font-light leading-relaxed">
-            OrchestriX is a small, senior studio that treats your product as an architectural asset—from the initial blueprint to the final deployment.
+            OrchestriX is a small, experienced team that handles your product carefully from planning to launch, like building something solid from the ground up
           </p>
         </div>
 
@@ -38,7 +38,7 @@ export default function Why() {
 
           <div className="space-y-10">
             {[
-              { title: "Senior Partnership", desc: "We provide the caliber of engineering you'd hire for your early team: product-minded and quality-focused." },
+              { title: "Built Together", desc: "We provide the caliber of engineering you'd hire for your early team: product-minded and quality-focused." },
               { title: "Architectural Rigor", desc: "Every component is built for longevity. We don't just solve today's problems; we secure tomorrow's scale." }
             ].map((item, i) => (
               <div key={i} className="space-y-4">

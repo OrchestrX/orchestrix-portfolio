@@ -93,7 +93,7 @@ export default function About() {
               <span className="text-slate-500 italic">orchestrate.</span>
             </h2>
             <p className="text-lg md:text-xl text-slate-400 font-light leading-relaxed max-w-lg">
-              We are a senior-led engineering collective. Our work is defined by rhythmic symmetry, technical foresight, and a obsessive commitment to the artifact.
+              We’re a small team that builds things the right way. Our work is defined by rhythmic symmetry, technical foresight, and a obsessive commitment to the artifact.
             </p>
           </div>
 
