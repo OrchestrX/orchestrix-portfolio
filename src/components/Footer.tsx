@@ -49,9 +49,12 @@ export default function Footer() {
 
         <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-8 sm:gap-10 mb-8 sm:mb-10">
           <div className="space-y-3 sm:space-y-4">
-            <h4 className="text-xl sm:text-2xl font-bold text-white">
-              OrchestriX
-            </h4>
+            <div className="flex items-center gap-3">
+              <img src="/icon.png" alt="OrchestriX Logo" className="w-8 h-8 rounded-lg object-contain" />
+              <h4 className="text-xl sm:text-2xl font-bold text-white">
+                OrchestriX
+              </h4>
+            </div>
             <p className="text-sm sm:text-base text-gray-300 leading-relaxed">
               An engineering studio that blends velocity with rigor for founders and product teams.
             </p>
